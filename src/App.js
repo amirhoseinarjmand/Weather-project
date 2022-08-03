@@ -1,8 +1,8 @@
 // DATE : 1401 / 5 / 11
 
 // Components
-import Navbar from './components/navbar/Navbar';
-import Main from './components/main/Main';
+import Navbar from './components/Navbar';
+import Main from './components/Main';
 
 function App() {
 
